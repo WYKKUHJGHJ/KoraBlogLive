@@ -1,7 +1,11 @@
 {
-  "id": "note123",
-  "title": "BTC Daily Report",
+  "id": "7702907a-446e-4148-bc5d-f8920ccb607a",
+  "title": "Today's Crypto Market Summary",
   "date": "2025-05-14",
-  "tags": ["btc", "market"],
-  "content_url": "https://raw.githubusercontent.com/WYKKUHJGHJ/KoraBlogLive/main/note123.md"
+  "tags": [
+    "market",
+    "summary",
+    "crypto"
+  ],
+  "content_url": "https://raw.githubusercontent.com/WYKKUHJGHJ/KoraBlogLive/main/todays-summary.md"
 }
